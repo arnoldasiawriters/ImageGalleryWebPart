@@ -1,0 +1,11 @@
+body {
+    font-size: 1.3em;
+}
+
+.error {
+    color:brown;
+}
+
+#imageGalleryWebPart li {
+    list-style: none;
+}
